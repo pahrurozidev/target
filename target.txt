@@ -1,18 +1,19 @@
 Practice :
-Laravel                                     : 
-Bootstrap                                   : 
-OOP PHP                                     :
-PHP MVC                                     :
+Laravel                                     : [26/04][27/04]
+Bootstrap                                   : [22/04] 
+OOP PHP                                     : 
+PHP MVC                                     : 
 Learn exel                                  : 
+English                                     : 
 
 Courses :
-Numerical Method                            : 
-Law and Profesional Ethics                  : 22/04
-Artificial Intelligence                     :
-Desktop Based Application                   :
+Numerical Method                            : [25/04]
+Law and Profesional Ethics                  : [22/04] 
+Artificial Intelligence                     : [25/04] 
+Desktop Based Application                   : [25/04]
 Computer Graphics                           : 
-Analysis and Design Software                :
-Computer Network                            : 22/04
+Analysis and Design Software                : [23/04]
+Computer Network                            : [22/04][24/04]
 
 Task :
 Law and Profesional Ethics: PAPER           : 
