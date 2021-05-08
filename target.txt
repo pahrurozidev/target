@@ -1,7 +1,7 @@
 Practice :
-Laravel                                     : +1
 Bootstrap                                   : +
-OOP PHP                                     : +1
+Laravel                                     : +
+OOP PHP                                     : +
 PHP MVC                                     : +
 Learn exel                                  : +
 English                                     : +
@@ -9,14 +9,13 @@ Article                                     : +
 Journal                                     : +
 
 Courses :
-Numerical Method                            : End
+Numerical Method                            : 
 Law and Profesional Ethics                  : 
 Artificial Intelligence                     : 
-Desktop Based Application                   :
+Desktop Based Application                   : 
 Computer Graphics                           : 
-Analysis and Design Software                :
+Analysis and Design Software                : 
 Computer Network                            : 
 
 Task :
-Law and Profesional Ethics: PAPER           : End
 
