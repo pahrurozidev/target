@@ -1,14 +1,131 @@
-Silabus
-Pengenalan Kelas : Pengenalan kelas dan apa saja yang akan dipelajari. (10 menit)
-Pengenalan JavaScript : Pengenalan tentang apa itu JavaScript, bagaimana sejarahnya, dan beberapa alasan untuk mulai mempelajarinya. (30 menit)
-JavaScript Fundamentals : Menjelaskan dasar logika dan sintaksis pemrograman menggunakan JavaScript, seperti variabel, tipe data, dan perulangan. (5 jam 35 menit)
-Data Structure : Menjelaskan bagaimana menyimpan dan mengelola data yang lebih kompleks menggunakan Object, Array, Map, dan Set. (4 jam 35 menit)
-Function : Menjelaskan bagaimana mengelompokkan kode menjadi fungsi yang dapat dipanggil ulang. (4 jam 35 menit)
-Object-Oriented Programming : Menjelaskan konsep OOP pada JavaScript, bagaimana membuat class, properti, dan method dari class. (4 jam 55 menit)
-Functional Programming : Memahami konsep functional programming seperti perilaku fungsi, lambda, dan higher-order. (2 jam 35 menit)
-Setup Environment : Proses instalasi lingkungan pengembangan seperti Node.js dan IDE pada perangkat yang Anda miliki. (3 jam)
-Module : Menjelaskan bagaimana beberapa berkas JavaScript dapat saling berkomunikasi dan berbagi data satu sama lain. (2 jam 55 menit)
-Error Handling : Menjelaskan bagaimana menangani kegagalan yang mungkin muncul dalam program sehingga tidak berdampak kepada pengguna. (3 jam 35 menit)
-Concurrency : Menjelaskan bagaimana menangani dan membuat proses asynchronous pada JavaScript. (5 jam 55 menit)
-Node Package Manager : Mengenalkan beberapa library yang penting untuk ditambahkan ke dalam proyek aplikasi JavaScript. (1 jam 50 menit)
-JavaScript Testing : Menjelaskan bagaimana melakukan pengujian otomatis pada kode JavaScript. (3 jam 20 menit)
+1. Persiapan Belajar
+    1. Persetujuan Hak Cipta                             : Done
+    2. Pengenalan Kelas                                  : Done
+    3. Mekanisme Belajar                                 : Done
+    4. Forum Disusi                                      : Done
+    5. Glosarium                                         : Done
+    6. Daftar Refrensi                                   : Done
+2. Pengenalan JavaScript                   
+    1. Pengenalan JavaScript                             : Done
+    2. Apa Itu JavaScript                                : Done
+    3. Sejarah JavaScript                                : Done
+    4. Kenapa Belajar JavaScript                         : Done
+    5. Rangkuman Materi                                  : Done
+3. Fundamental JavaScript                                : Done
+    1. Pengenalan Fundamental JavaScript                
+    2. Menulis Kode JavaScript                           : Done
+    3. Comments                                          : Done
+    4. Variabel                                          : Done
+    5. Tipe Data                                         : Done
+    6. Operator                                          : Done
+    7. If/Else Statement                                 : Done
+    8. Switch Case Statement                             : Done
+    9. Loop                                              : Done
+    10. Kuis Koding: Variabel dan Tipe Data              : Done
+    11. Kuis Koding: Logika Operator dan If Else         : Done
+    12. Rangkuman Materi                                 : Done
+    13. Knowledge Check: Fundamental JavaScript          : Done
+4. Struktur Data                           
+    1. Pengenalan Struktur Data                          : Done
+    2. Object                                            : Done
+    3. Array                                             : Done
+    4. Spread Operator
+    5. Destructuring Object & Array
+    6. Destructuring Object
+    7. Destructuring Array
+    8. Map
+    9. Set
+    10. WeakMap & WeakSet
+    11. Kuis Coding : Object
+    12. Kuis Coding : Array
+    13. Kuis Coding : Map
+    14. Rangkuman Materi
+    15. Knowledge Check : Struktur Data
+5. Function
+    Pengenalan Function
+    Declaring Function
+    Function Parameter
+    Arrow Function
+    Variable Scope
+    Closure
+    Kuis Coding : Function
+    Rangkuman Materi
+    Knowledge Check : Function
+6. Object-Oriented Programming (OOP)
+    Pengenalan Object-Oriented Programming (OOP)
+    Introduction to OOP
+    Class
+    Property & Method
+    4 Pilar OOP
+    Overriding Method
+    Object Composition
+    Built-in Class
+    Kuis Coding: Object Oriented Programming
+    Rangkuman Materi
+    Knowledge Check : Object-Oriented Programming (OOP)
+7. Functional Programming
+    Pengenalan Functional Programming
+    Paradigma Functional Programming
+    Konsep-Konsep Functional Programming
+    Reusable Function
+    Kuis Coding : Functional Programming
+    Rangkuman Materi
+    Knowledge Check : Functional Programming (FP)
+8. Setup Environment
+    Pengenalan Setup Environment
+    Text Editor & Terminal
+    JavaScript Runtime
+    Node.js
+    Instalasi Node
+    Membuat Project JavaScript
+    Menjalankan Project Node
+    Rangkuman Materi
+    Knowledge Check : Setup Environment
+9. Module
+    Pengenalan Module
+    Export & Import
+    Export Beberapa Nilai pada Node.js
+    ES6 Module
+    Kuis Coding : Module
+    Rangkuman Materi
+    Knowledge Check : Module
+10. Penanganan Error
+    Pengenalan Penanganan Eror
+    Try and Catch
+    Throwing Errors
+    Custom Error
+    Kuis Coding : Penanganan Eror
+    Rangkuman Materi
+    Knowledge Check : Penanganan Eror
+11. Concurrency
+    Pengenalan Concurrency
+    Synchronous vs Asynchronous
+    setTimeout
+    Callback Function
+    Promise
+    Constructing Promise Object
+    Consuming Promises
+    onRejected with Catch Method
+    Chaining Promises
+    Promise All
+    Async-await
+    Kuis Coding : Concurrency
+    Rangkuman Materi
+    Knowledge Check : Concurrency
+12. Node Package Manager
+    Pengenalan Node Package Manager
+    Getting Started with NPM
+    Installing Packages
+    Using Package
+    Uninstall Package
+    Rangkuman Materi
+    Knowledge Check : Node Package Manager
+13. JavaScript Testing
+    Pengenalan JavaScript Testing
+    Jest
+    Menulis Kode Pengujian
+    Pengujian Kode
+    Rangkuman Materi
+    Knowledge Check : JavaScript Testing
+14. Penutup
+    Ujian Akhir
