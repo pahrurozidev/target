@@ -1,0 +1,155 @@
+Daftar Modul
+
+1. Persiapan Belajar
+    Persetujuan Hak Cipta
+    Pengenalan Kelas
+2. Pendahuluan
+    Apa itu Website?
+    Server dan Client
+    Anatomi Website
+    Apa yang Akan Kita Pelajari?
+    Requirement Tools
+    Kuis Sub-modul Pendahuluan
+3. Pengenalan HTML
+    Pengenalan ke HTML
+    Membuat berkas HTML Pertama
+    Struktur Dasar HTML
+    Identifikasi Elemen pada Halaman Website
+    Kuis Sub-modul Pengenalan HTML
+4. Pendalaman HTML
+    HTML lebih Dalam
+    Atribut HTML
+    Paragraf
+    Heading
+    List
+    Menambahkan List pada Halaman Profil
+    Gambar
+    Menambahkan Gambar pada Halaman Profil
+    Teks Terformat
+    Anchor, Emphasized Text, Important Text, dan Short Quotation
+    Citation, Defining Terms, Subscript, Superscript, Highlighted Text, dan Line Break
+    Menerapkan Anchor pada Navigasi Halaman Profil
+    Semantic HTML - Mengorganisasikan Halaman Konten
+    Header, Footer, Main dan Nav
+    Articles, Aside, dan Section
+    Generic Element
+    Mengorganisasikan Konten pada Halaman Profil
+    Menetapkan Elemen Header, Main, dan Footer
+    Menggunakan Div, Aside, Article, dan Section pada Konten
+    Table
+    Struktur Dasar Sebuah Tabel
+    Spanning Cell
+    Elemen dan Atribut pada Tabel
+    Menerapkan Elemen Tabel pada Halaman Profil
+    Special Character
+    Kuis Sub-modul Pendalaman HTML
+5. Pengenalan CSS
+    Pengenalan ke Styling
+    Keuntungan dan Cara Kerja CSS
+    Memberikan Markup pada Dokumen
+    Menuliskan Aturan Styling
+    Melampirkan Styling pada Dokumen HTML
+    Menerapkan Styling Dasar pada Halaman Profil
+    Membuat Berkas CSS
+    Menulis Rules pada Berkas CSS
+    Menghubungkan Berkas CSS dengan HTML
+    CSS Conception
+    Kuis Sub-modul Pengenalan CSS
+6. Pendalaman CSS
+    Styling lebih Dalam
+    Selector Basic, Type Selector, dan Class Selector
+    ID Selector, Attribute Selector, dan Universal Selector
+    Combinators: Adjacent SIbling Selector dan General Sibling Selector
+    Combinators: Child Selector dan Descendant Selector
+    Pseudo Selector
+    Formatting Text (Text dan Font Styling)
+    Memilih Jenis dan Ukuran Font
+    Font Weight, Font Style, Font Variant, dan Shorthand
+    Text Styling: Line Height, Text Indent, dan Text Alignment
+    Text Styling: Text Decoration, Text Transform, Text Spacing, dan Text Shadow
+    Menerapkan Font Styling pada Halaman Profil
+    Menggunakan Font dari Google Font
+    Menetapkan Ukuran, Ketebalan, dan Perataan Teks pada Halaman Profil
+    Color
+    Menetapkan Nilai Warna
+    Text dan Background Color
+    Box Model
+    Box Element
+    Box Dimensions
+    Border
+    Padding
+    Margin
+    Centering Content
+    Display Roles
+    Box Shadow
+    Rounded Corner
+    Menerapkan Box Model pada Halaman Profil
+    Menetapkan ukuran pada gambar
+    Menerapkan Card Style pada Elemen Article
+    Menerapkan Jumbotron dan Navigasi pada Header
+    Menyesuaikan Padding dan Margin pada Body dan Elemen Main
+    Positioning
+    Perbedaan Static Flow dan Non-Static Flow
+    Normal Flow
+    Relative Positioning
+    Absolute Positioning
+    Fixed Positioning
+    Floating
+    Permasalahan Penerapan Float
+    Clear Property
+    Teknik Overflow
+    Menerapkan Positioning dan Float pada Halaman Profil
+    Menetapkan Float pada Content dan Aside
+    Menambahkan meta tag viewport
+    Media Query
+    Membuat Sticky Navigation
+    Memperbaiki CSS
+    Kuis Sub-modul Pendalaman CSS
+7. Layout Responsif Menggunakan Flexbox
+    Perkenalan Layout Responsif menggunakan Flexbox
+    Flexible Box Model
+    Flex Container
+    Flex Grow
+    Flex Direction
+    Flexible Basis
+    Latihan - Membuat Layout Kalkulator : Membuat Struktur HTML Kalkulator
+    Latihan - Menerapkan Flexbox pada Halaman Kalkulator
+    Latihan - Mempercantik Tampilan Kalkulator
+    Responsibilitas pada Tampilan Mobile
+    Kuis Sub-modul Layout Responsif menggunakan Flexbox
+8. JavaScript Basic dan Manipulasi DOM
+    Perkenalan JavaScript And DOM
+    Menuliskan Syntax Javascript pada HTML
+    Membuat Berkas JavaScript Pertama
+    Dasar JavaScript
+    Statement
+    Comment
+    Variabel
+    Tipe Data
+    Arrays dan Objek
+    Operator Penugasan
+    Operator Komparasi
+    If/Else Statement
+    Loop
+    Function
+    Variabel Scope
+    Mode Strict pada JavaScript
+    Browser Object
+    Manipulasi DOM
+    Mendapatkan Elemen
+    Memanipulasi Atribut Elemen
+    Memanipulasi Konten Elemen
+    Membuat dan Menambahkan Elemen Baru
+    Menambahkan Aksi (Event) pada Elemen
+    Menerapkan JavaScript pada Web Kalkulator
+    Kuis Sub-modul JavaScript Basic dan Manipulasi DOM
+9. Web Storage
+    Perkenalan ke Web Storage
+    Tipe Web Storage
+    Latihan - Menambahkan Riwayat Kalkulasi pada Web Kalkulator
+    Latihan - Menerapkan Styling pada Tabel Riwayat Web Kalkulator
+    Latihan - Menerapkan localStorage pada Kalkulator
+    Kuis Sub-modul Web Storage
+10. Penutup
+    Ujian Akhir
+    Submission: Tugas Akhir Membuat Website

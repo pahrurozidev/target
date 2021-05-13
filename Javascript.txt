@@ -1,3 +1,5 @@
+Daftar Modul
+
 1. Persiapan Belajar
     1. Persetujuan Hak Cipta                             : Done
     2. Pengenalan Kelas                                  : Done
@@ -29,9 +31,9 @@
     1. Pengenalan Struktur Data                          : Done
     2. Object                                            : Done
     3. Array                                             : Done
-    4. Spread Operator
-    5. Destructuring Object & Array
-    6. Destructuring Object
+    4. Spread Operator                                   : Done
+    5. Destructuring Object & Array                      : Done
+    6. Destructuring Object                              : Done
     7. Destructuring Array
     8. Map
     9. Set

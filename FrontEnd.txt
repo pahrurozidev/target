@@ -1,0 +1,91 @@
+Daftar Modul
+
+1. Persiapan Belajar
+    Persetujuan Hak Cipta
+    Prasyarat Kemampuan
+    Prasyarat Tools
+    Mekanisme Belajar
+    Forum Diskusi
+    Glosarium
+    Daftar Referensi
+2. Dasar JavaScript
+    Pendahuluan Dasar JavaScript
+    Apa itu JavaScript
+    Sejarah JavaScript
+    Mengenal Statement dan Expression dengan Menulis Kode JavaScript Pertama
+    Komentar
+    Variabel
+    Tipe Data
+    Kuis Coding : Variabel dan Tipe Data
+    Operator
+    If/Else Statement
+    Switch Case Statement
+    Kuis Coding : Logika Operator dan If Else
+    Perulangan
+    Object
+    Kuis Coding : Object
+    Array
+    Kuis Coding : Array
+    Deklarasi Fungsi
+    Expression Function
+    Kuis Coding : Function
+    Ikhtisar Dasar JavaScript
+3. Browser Object Model, Document Object Model, dan Event
+    Pengenalan Browser Object Model, Document Object Model, dan Event
+    Cara JavaScript Mengontrol Website dan Browser
+    Menambahkan JavaScript di Website
+    Browser Environment
+    Pendahuluan Browser Object Model (BOM)
+    Anggota BOM: alert()
+    Anggota BOM: prompt()
+    Anggota BOM: console
+    Cara Memanggil Anggota BOM
+    Document Object Model (DOM)
+    DOM Tree
+    Mencari DOM (Mendapatkan DOM)
+    Membuat Elemen HTML
+    Mengubah Konten HTML - Menyiapkan Konten
+    Mengubah Konten HTML - Memanipulasi Atribut Melalui setAttribute()
+    Mengubah Konten HTML - Memanipulasi Konten Melalui innerText, innerHTML, dan style.property
+    Menambahkan Elemen HTML ke DOM
+    Pendahuluan Event
+    Macam-Macam Event
+    Menambahkan Event Handler - Menyiapkan Halaman Website
+    Menambahkan Event Handler - Membuat event handler onload
+    Menambahkan Event Handler - Membuat event handler onclick
+    Menambahkan Event Handler - Menerapkan event handler inline
+    Menambahkan Event Handler - Menerapkan event handler dengan addEventListener()
+    Menambahkan Custom Event
+    Membangkitkan Custom Event
+    Event Bubbling dan Capturing
+    Pengenalan ke Form
+    Form Event
+    Input Event - Menyiapkan Halaman Website
+    Input Event - onInput, onFocus, dan onBlur
+    Input Event - onChange, onCopy, dan onPaste
+    Input Event - Hasil Akhir
+    Membuat Aplikasi Todo Apps
+    Mengunduh Starter Project, Membuat Berkas JavaScript, dan Menampilkan Todo pada Console
+    Menampilkan Item Todo dan Menandai Tod
+    Menampilkan Item Todo yan dan Menghapus Todo
+    Ikhtisar Browser Object Model, Document Object Model, dan Event
+4. Web Storage
+    Pengenalan Web Storage
+    Pengertian dan Fungsi Web Storage
+    Macam-Macam Web Storage dan Cara Mengetahui Dukungan Web Storage
+    Local Storage
+    Session Storage
+    Implementasi Web Storage - Menambahkan Item Storage
+    Implementasi Web Storage - Mengakses Item Storage
+    Implementasi Web Storage - Memodifikasi Item Storage
+    Implementasi Web Storage - Menghapus Item Storage
+    Implementasi Web Storage - Menyimpan Data Kompleks pada Storage menggunakan objek JSON
+    Mengimplementasikan Web Storage ke Proyek Todo Apps
+    Menambahkan Fungsi Dasar Manipulasi Data
+    Memodifikasi File dom.js Untuk Menerapkan Fungsi Manipulasi Data
+    Menguji Data yang Telah Disimpan
+    Menambahkan Fungsionalitas untuk Memuat Data saat Startup
+    Ikhtisar Web Storage
+5. Penutup
+    Submission Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage
+
