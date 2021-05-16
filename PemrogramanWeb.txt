@@ -1,110 +1,112 @@
 Daftar Modul
 
+4 / Day
+
 1. Persiapan Belajar
-    Persetujuan Hak Cipta
-    Pengenalan Kelas
-2. Pendahuluan
-    Apa itu Website?
-    Server dan Client
-    Anatomi Website
-    Apa yang Akan Kita Pelajari?
-    Requirement Tools
-    Kuis Sub-modul Pendahuluan
-3. Pengenalan HTML
-    Pengenalan ke HTML
-    Membuat berkas HTML Pertama
-    Struktur Dasar HTML
-    Identifikasi Elemen pada Halaman Website
-    Kuis Sub-modul Pengenalan HTML
-4. Pendalaman HTML
-    HTML lebih Dalam
-    Atribut HTML
-    Paragraf
-    Heading
-    List
-    Menambahkan List pada Halaman Profil
-    Gambar
-    Menambahkan Gambar pada Halaman Profil
-    Teks Terformat
-    Anchor, Emphasized Text, Important Text, dan Short Quotation
-    Citation, Defining Terms, Subscript, Superscript, Highlighted Text, dan Line Break
-    Menerapkan Anchor pada Navigasi Halaman Profil
-    Semantic HTML - Mengorganisasikan Halaman Konten
-    Header, Footer, Main dan Nav
-    Articles, Aside, dan Section
-    Generic Element
-    Mengorganisasikan Konten pada Halaman Profil
-    Menetapkan Elemen Header, Main, dan Footer
-    Menggunakan Div, Aside, Article, dan Section pada Konten
-    Table
-    Struktur Dasar Sebuah Tabel
-    Spanning Cell
-    Elemen dan Atribut pada Tabel
-    Menerapkan Elemen Tabel pada Halaman Profil
-    Special Character
-    Kuis Sub-modul Pendalaman HTML
-5. Pengenalan CSS
-    Pengenalan ke Styling
-    Keuntungan dan Cara Kerja CSS
-    Memberikan Markup pada Dokumen
-    Menuliskan Aturan Styling
-    Melampirkan Styling pada Dokumen HTML
-    Menerapkan Styling Dasar pada Halaman Profil
-    Membuat Berkas CSS
-    Menulis Rules pada Berkas CSS
-    Menghubungkan Berkas CSS dengan HTML
-    CSS Conception
-    Kuis Sub-modul Pengenalan CSS
+    1. Persetujuan Hak Cipta                                         : Done
+    2. Pengenalan Kelas                                              : Done        
+2. Pendahuluan 
+    1. Apa itu Website?                                              : Done        
+    2. Server dan Client                                             : Done        
+    3. Anatomi Website                                               : Done        
+    4. Apa yang Akan Kita Pelajari?                                  : Done        
+    5. Requirement Tools                                             : Done        
+    6. Kuis Sub-modul Pendahuluan                                    : Done        
+3. Pengenalan HTML : Done        
+    1. Pengenalan ke HTML                                            : Done        
+    2. Membuat berkas HTML Pertama                                   : Done        
+    3. Struktur Dasar HTML                                           : Done        
+    4. Identifikasi Elemen pada Halaman Website                      : Done        
+    5. Kuis Sub-modul Pengenalan HTML                                : Done        
+4. Pendalaman HTML 
+    1. HTML lebih Dalam                                              : Done        
+    2. Atribut HTML                                                  : Done        
+    3. Paragraf                                                      : Done        
+    4. Heading                                                       : Done        
+    5. List                                                          : Done        
+    6. Menambahkan List pada Halaman Profil                          : Done        
+    7. Gambar                                                        : Done        
+    8. Menambahkan Gambar pada Halaman Profil                        : Done        
+    9. Teks Terformat                                                : Done        
+    10. Anchor, Emphasized Text, Important Text, dan Short Quotation : Done        
+    11. Citation, Defining Terms, Subscript, Superscript, Highlighted Text, dan Line Break : Done        
+    12. Menerapkan Anchor pada Navigasi Halaman Profil               : Done        
+    13. Semantic HTML - Mengorganisasikan Halaman Konten             : Done        
+    14. Header, Footer, Main dan Nav                                 : Done        
+    15. Articles, Aside, dan Section                                 : Done        
+    16. Generic Element                                              : Done        
+    17. Mengorganisasikan Konten pada Halaman Profil                 : Done        
+    18. Menetapkan Elemen Header, Main, dan Footer                   : Done        
+    19. Menggunakan Div, Aside, Article, dan Section pada Konten     : Done        
+    20. Table                                                        : Done        
+    21. Struktur Dasar Sebuah Tabel                                  : Done        
+    22. Spanning Cell                                                : Done        
+    23. Elemen dan Atribut pada Tabel                                : Done        
+    24. Menerapkan Elemen Tabel pada Halaman Profil                  : Done        
+    25. Special Character                                            : Done        
+    26. Kuis Sub-modul Pendalaman HTML                               : Done        
+5. Pengenalan CSS 
+    1. Pengenalan ke Styling                                         : Done        
+    2. Keuntungan dan Cara Kerja CSS                                 : Done        
+    3. Memberikan Markup pada Dokumen                                : Done        
+    4. Menuliskan Aturan Styling                                     : Done        
+    5. Melampirkan Styling pada Dokumen HTML                         : Done        
+    6. Menerapkan Styling Dasar pada Halaman Profil                  : Done        
+    7. Membuat Berkas CSS                                            : Done        
+    8. Menulis Rules pada Berkas CSS                                 : Done        
+    9. Menghubungkan Berkas CSS dengan HTML                          : Done        
+    10. CSS Conception                                               : Done        
+    11. Kuis Sub-modul Pengenalan CSS                                : Done        
 6. Pendalaman CSS
-    Styling lebih Dalam
-    Selector Basic, Type Selector, dan Class Selector
-    ID Selector, Attribute Selector, dan Universal Selector
-    Combinators: Adjacent SIbling Selector dan General Sibling Selector
-    Combinators: Child Selector dan Descendant Selector
-    Pseudo Selector
-    Formatting Text (Text dan Font Styling)
-    Memilih Jenis dan Ukuran Font
-    Font Weight, Font Style, Font Variant, dan Shorthand
-    Text Styling: Line Height, Text Indent, dan Text Alignment
-    Text Styling: Text Decoration, Text Transform, Text Spacing, dan Text Shadow
-    Menerapkan Font Styling pada Halaman Profil
-    Menggunakan Font dari Google Font
-    Menetapkan Ukuran, Ketebalan, dan Perataan Teks pada Halaman Profil
-    Color
-    Menetapkan Nilai Warna
-    Text dan Background Color
-    Box Model
-    Box Element
-    Box Dimensions
-    Border
-    Padding
-    Margin
-    Centering Content
-    Display Roles
-    Box Shadow
-    Rounded Corner
-    Menerapkan Box Model pada Halaman Profil
-    Menetapkan ukuran pada gambar
-    Menerapkan Card Style pada Elemen Article
-    Menerapkan Jumbotron dan Navigasi pada Header
-    Menyesuaikan Padding dan Margin pada Body dan Elemen Main
-    Positioning
-    Perbedaan Static Flow dan Non-Static Flow
-    Normal Flow
-    Relative Positioning
-    Absolute Positioning
-    Fixed Positioning
-    Floating
-    Permasalahan Penerapan Float
-    Clear Property
-    Teknik Overflow
-    Menerapkan Positioning dan Float pada Halaman Profil
-    Menetapkan Float pada Content dan Aside
-    Menambahkan meta tag viewport
-    Media Query
-    Membuat Sticky Navigation
-    Memperbaiki CSS
-    Kuis Sub-modul Pendalaman CSS
+    1. Styling lebih Dalam                                           : Done        
+    2. Selector Basic, Type Selector, dan Class Selector             : Done        
+    3. ID Selector, Attribute Selector, dan Universal Selector       : Done        
+    4. Combinators: Adjacent SIbling Selector dan General Sibling Selector : Done        
+    5. Combinators: Child Selector dan Descendant Selector           : Done        
+    6. Pseudo Selector                                               : Done        
+    7. Formatting Text (Text dan Font Styling)                       : Done        
+    8. Memilih Jenis dan Ukuran Font                                 : Done        
+    9. Font Weight, Font Style, Font Variant, dan Shorthand          : Done        
+    10. Text Styling: Line Height, Text Indent, dan Text Alignment   : Done        
+    11. Text Styling: Text Decoration, Text Transform, Text Spacing, dan Text Shadow : Done        
+    12. Menerapkan Font Styling pada Halaman Profil                  : Done        
+    13. Menggunakan Font dari Google Font                            : Done        
+    14. Menetapkan Ukuran, Ketebalan, dan Perataan Teks pada Halaman Profil : Done        
+    15. Color                                                        : Done        
+    16. Menetapkan Nilai Warna                                       : Done        
+    17. Text dan Background Color                                    : Done        
+    18. Box Model                                                    : Done        
+    19. Box Element                                                  : Done        
+    20. Box Dimensions                                               : Done        
+    21. Border                                                       : Done        
+    22. Padding
+    23. Margin
+    24. Centering Content
+    25. Display Roles
+    26. Box Shadow
+    27. Rounded Corner
+    28. Menerapkan Box Model pada Halaman Profil
+    29. Menetapkan ukuran pada gambar
+    30. Menerapkan Card Style pada Elemen Article
+    31. Menerapkan Jumbotron dan Navigasi pada Header
+    32. Menyesuaikan Padding dan Margin pada Body dan Elemen Main
+    33. Positioning
+    34. Perbedaan Static Flow dan Non-Static Flow
+    35. Normal Flow
+    36. Relative Positioning
+    37. Absolute Positioning
+    38. Fixed Positioning
+    39. Floating
+    40. Permasalahan Penerapan Float
+    41. Clear Property
+    42. Teknik Overflow
+    43. Menerapkan Positioning dan Float pada Halaman Profil
+    44. Menetapkan Float pada Content dan Aside
+    45. Menambahkan meta tag viewport
+    46. Media Query
+    47. Membuat Sticky Navigation
+    48. Memperbaiki CSS
+    49. Kuis Sub-modul Pendalaman CSS
 7. Layout Responsif Menggunakan Flexbox
     Perkenalan Layout Responsif menggunakan Flexbox
     Flexible Box Model

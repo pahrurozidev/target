@@ -1,36 +1,39 @@
-Daftar Modul
+Daftar Modul 
+
+3 / Day
+20 Juni 2021
 
 1. Persiapan Belajar
-    Persetujuan Hak Cipta
-    Prasyarat Kemampuan
-    Prasyarat Tools
-    Mekanisme Belajar
-    Forum Diskusi
-    Glosarium
-    Daftar Referensi
+    1. Persetujuan Hak Cipta                                                   : Done
+    2. Prasyarat Kemampuan                                                     : Done
+    3. Prasyarat Tools                                                         : Done
+    4. Mekanisme Belajar                                                       : Done
+    5. Forum Diskusi                                                           : Done
+    6. Glosarium                                                               : Done
+    7. Daftar Referensi                                                        : Done
 2. Dasar JavaScript
-    Pendahuluan Dasar JavaScript
-    Apa itu JavaScript
-    Sejarah JavaScript
-    Mengenal Statement dan Expression dengan Menulis Kode JavaScript Pertama
-    Komentar
-    Variabel
-    Tipe Data
-    Kuis Coding : Variabel dan Tipe Data
-    Operator
-    If/Else Statement
-    Switch Case Statement
-    Kuis Coding : Logika Operator dan If Else
-    Perulangan
-    Object
-    Kuis Coding : Object
-    Array
-    Kuis Coding : Array
-    Deklarasi Fungsi
-    Expression Function
-    Kuis Coding : Function
-    Ikhtisar Dasar JavaScript
-3. Browser Object Model, Document Object Model, dan Event
+    1. Pendahuluan Dasar JavaScript                                            : Done
+    2. Apa itu JavaScript                                                      : Done
+    3. Sejarah JavaScript                                                      : Done
+    4. Mengenal Statement dan Expression dengan Menulis Kode JavaScript Pertama : Done
+    5. Komentar                                                                : Done
+    6. Variabel                                                                : Done
+    7. Tipe Data                                                               : Done
+    8. Kuis Coding : Variabel dan Tipe Data                                    : Done
+    9. Operator                                                                : Done
+    10. If/Else Statement                                                      : Done
+    11. Switch Case Statement                                                  : Done
+    12. Kuis Coding : Logika Operator dan If Else                              : Done
+    13. Perulangan                                                             : Done
+    14. Object                                                                 : Done
+    15. Kuis Coding : Object                                                   : Done
+    16. Array                                                                  : Done
+    17. Kuis Coding : Array                                                    : Done
+    18. Deklarasi Fungsi                                                       : Done
+    19. Expression Function                                                    : Done
+    20. Kuis Coding : Function                                                 : Done
+    21. Ikhtisar Dasar JavaScript                                              : Done
+3. Browser Object Model, Document Objexct Model, dan Event
     Pengenalan Browser Object Model, Document Object Model, dan Event
     Cara JavaScript Mengontrol Website dan Browser
     Menambahkan JavaScript di Website

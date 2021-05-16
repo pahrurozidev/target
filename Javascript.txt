@@ -34,37 +34,37 @@ Daftar Modul
     4. Spread Operator                                   : Done
     5. Destructuring Object & Array                      : Done
     6. Destructuring Object                              : Done
-    7. Destructuring Array
-    8. Map
-    9. Set
-    10. WeakMap & WeakSet
-    11. Kuis Coding : Object
-    12. Kuis Coding : Array
-    13. Kuis Coding : Map
-    14. Rangkuman Materi
-    15. Knowledge Check : Struktur Data
+    7. Destructuring Array                               : Done
+    8. Map                                               : Done
+    9. Set                                               : Done
+    10. WeakMap & WeakSet                                : Done
+    11. Kuis Coding : Object                             : Done
+    12. Kuis Coding : Array                              : Done
+    13. Kuis Coding : Map                                : Done
+    14. Rangkuman Materi                                 : Done
+    15. Knowledge Check : Struktur Data                  : Done
 5. Function
-    Pengenalan Function
-    Declaring Function
-    Function Parameter
-    Arrow Function
-    Variable Scope
-    Closure
-    Kuis Coding : Function
-    Rangkuman Materi
-    Knowledge Check : Function
+    1. Pengenalan Function                               : Done
+    2. Declaring Function                                : Done
+    3. Function Parameter                                : Done
+    4. Arrow Function                                    : Done
+    5. Variable Scope                                    : Done
+    6. Closure                                           : Done
+    7. Kuis Coding : Function                            : Done
+    8. Rangkuman Materi                                  : Done
+    9. Knowledge Check : Function                        : Done
 6. Object-Oriented Programming (OOP)
-    Pengenalan Object-Oriented Programming (OOP)
-    Introduction to OOP
-    Class
-    Property & Method
-    4 Pilar OOP
-    Overriding Method
-    Object Composition
-    Built-in Class
-    Kuis Coding: Object Oriented Programming
-    Rangkuman Materi
-    Knowledge Check : Object-Oriented Programming (OOP)
+    1. Pengenalan Object-Oriented Programming (OOP)      : Done
+    2. Introduction to OOP                               : Done
+    3. Class                                             : Done
+    4. Property & Method                                 : Done
+    5. 4 Pilar OOP                                       : Done
+    6. Overriding Method                                 : Done
+    7. Object Composition                                : Done
+    8. Built-in Class                                    : Done
+    9. Kuis Coding: Object Oriented Programming          : Done
+    10. Rangkuman Materi                                 : Done
+    11. Knowledge Check : Object-Oriented Programming (OOP) : Done
 7. Functional Programming
     Pengenalan Functional Programming
     Paradigma Functional Programming
