@@ -66,23 +66,23 @@ Daftar Modul
     10. Rangkuman Materi                                 : Done
     11. Knowledge Check : Object-Oriented Programming (OOP) : Done
 7. Functional Programming
-    Pengenalan Functional Programming
-    Paradigma Functional Programming
-    Konsep-Konsep Functional Programming
-    Reusable Function
-    Kuis Coding : Functional Programming
-    Rangkuman Materi
-    Knowledge Check : Functional Programming (FP)
+    1. Pengenalan Functional Programming                 : Done
+    2. Paradigma Functional Programming                  : Done
+    3. Konsep-Konsep Functional Programming              : Done
+    4. Reusable Function                                 : Done
+    5. Kuis Coding : Functional Programming              : Done
+    6. Rangkuman Materi                                  : Done
+    7. Knowledge Check : Functional Programming (FP)     : Done
 8. Setup Environment
-    Pengenalan Setup Environment
-    Text Editor & Terminal
-    JavaScript Runtime
-    Node.js
-    Instalasi Node
-    Membuat Project JavaScript
-    Menjalankan Project Node
-    Rangkuman Materi
-    Knowledge Check : Setup Environment
+    1. Pengenalan Setup Environment
+    2. Text Editor & Terminal
+    3. JavaScript Runtime
+    4. Node.js
+    5. Instalasi Node
+    6. Membuat Project JavaScript
+    7. Menjalankan Project Node
+    8. Rangkuman Materi
+    9. Knowledge Check : Setup Environment
 9. Module
     Pengenalan Module
     Export & Import

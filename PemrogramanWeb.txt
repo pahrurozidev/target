@@ -1,19 +1,20 @@
 Daftar Modul
 
 4 / Day
+25 Juni 2021
 
 1. Persiapan Belajar
     1. Persetujuan Hak Cipta                                         : Done
-    2. Pengenalan Kelas                                              : Done        
+    2. Pengenalan Kelas                                              : Done
 2. Pendahuluan 
-    1. Apa itu Website?                                              : Done        
-    2. Server dan Client                                             : Done        
-    3. Anatomi Website                                               : Done        
-    4. Apa yang Akan Kita Pelajari?                                  : Done        
-    5. Requirement Tools                                             : Done        
-    6. Kuis Sub-modul Pendahuluan                                    : Done        
-3. Pengenalan HTML : Done        
-    1. Pengenalan ke HTML                                            : Done        
+    1. Apa itu Website?                                              : Done
+    2. Server dan Client                                             : Done
+    3. Anatomi Website                                               : Done
+    4. Apa yang Akan Kita Pelajari?                                  : Done
+    5. Requirement Tools                                             : Done
+    6. Kuis Sub-modul Pendahuluan                                    : Done
+3. Pengenalan HTML
+    1. Pengenalan ke HTML                                            : Done
     2. Membuat berkas HTML Pertama                                   : Done        
     3. Struktur Dasar HTML                                           : Done        
     4. Identifikasi Elemen pada Halaman Website                      : Done        
@@ -71,39 +72,39 @@ Daftar Modul
     11. Text Styling: Text Decoration, Text Transform, Text Spacing, dan Text Shadow : Done        
     12. Menerapkan Font Styling pada Halaman Profil                  : Done        
     13. Menggunakan Font dari Google Font                            : Done        
-    14. Menetapkan Ukuran, Ketebalan, dan Perataan Teks pada Halaman Profil : Done        
-    15. Color                                                        : Done        
-    16. Menetapkan Nilai Warna                                       : Done        
-    17. Text dan Background Color                                    : Done        
-    18. Box Model                                                    : Done        
-    19. Box Element                                                  : Done        
-    20. Box Dimensions                                               : Done        
-    21. Border                                                       : Done        
-    22. Padding
-    23. Margin
-    24. Centering Content
-    25. Display Roles
-    26. Box Shadow
-    27. Rounded Corner
-    28. Menerapkan Box Model pada Halaman Profil
-    29. Menetapkan ukuran pada gambar
-    30. Menerapkan Card Style pada Elemen Article
-    31. Menerapkan Jumbotron dan Navigasi pada Header
-    32. Menyesuaikan Padding dan Margin pada Body dan Elemen Main
-    33. Positioning
-    34. Perbedaan Static Flow dan Non-Static Flow
-    35. Normal Flow
-    36. Relative Positioning
-    37. Absolute Positioning
-    38. Fixed Positioning
-    39. Floating
-    40. Permasalahan Penerapan Float
-    41. Clear Property
-    42. Teknik Overflow
-    43. Menerapkan Positioning dan Float pada Halaman Profil
-    44. Menetapkan Float pada Content dan Aside
-    45. Menambahkan meta tag viewport
-    46. Media Query
+    14. Menetapkan Ukuran, Ketebalan, dan Perataan Teks pada Halaman Profil : Done
+    15. Color                                                        : Done
+    16. Menetapkan Nilai Warna                                       : Done
+    17. Text dan Background Color                                    : Done
+    18. Box Model                                                    : Done
+    19. Box Element                                                  : Done
+    20. Box Dimensions                                               : Done
+    21. Border                                                       : Done
+    22. Padding                                                      : Done
+    23. Margin                                                       : Done
+    24. Centering Content                                            : Done
+    25. Display Roles                                                : Done
+    26. Box Shadow                                                   : Done
+    27. Rounded Corner                                               : Done
+    28. Menerapkan Box Model pada Halaman Profil                     : Done
+    29. Menetapkan ukuran pada gambar                                : Done
+    30. Menerapkan Card Style pada Elemen Article                    : Done
+    31. Menerapkan Jumbotron dan Navigasi pada Header                : Done
+    32. Menyesuaikan Padding dan Margin pada Body dan Elemen Main    : Done
+    33. Positioning                                                  : Done
+    34. Perbedaan Static Flow dan Non-Static Flow                    : Done
+    35. Normal Flow                                                  : Done
+    36. Relative Positioning                                         : Done
+    37. Absolute Positioning                                         : Done
+    38. Fixed Positioning                                            : Done
+    39. Floating                                                     : Done
+    40. Permasalahan Penerapan Float                                 : Done
+    41. Clear Property                                               : Done
+    42. Teknik Overflow                                              : Done
+    43. Menerapkan Positioning dan Float pada Halaman Profil         : Done
+    44. Menetapkan Float pada Content dan Aside                      : Done
+    45. Menambahkan meta tag viewport                                : Done
+    46. Media Querys                                                 : Done
     47. Membuat Sticky Navigation
     48. Memperbaiki CSS
     49. Kuis Sub-modul Pendalaman CSS
